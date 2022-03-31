@@ -1,0 +1,10 @@
+{
+    "C_Cpp_Runner.compilerPathC": "D:\\mingw\\mingw32\\bin\\gcc.exe",
+    "C_Cpp_Runner.compilerPathCpp": "D:\\mingw\\mingw32\\bin\\g++.exe",
+    "C_Cpp_Runner.debuggerPath": "D:\\mingw\\mingw32\\bin\\gdb.exe",
+    "C_Cpp_Runner.makePath": "D:\\mingw\\mingw32\\bin\\mingw32-make.exe",
+    "files.associations": {
+        "LINEAR_SEARCH.C": "cpp",
+        "stdio.h": "c"
+    }
+}
